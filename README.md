@@ -1,5 +1,5 @@
 # Project-MN
- Test Mentes Notáveis - API PHP & Laravael (CRUD)
+ Teste Mentes Notáveis - API PHP & Laravael (CRUD)
 
 
 > Laravel quote: To run the CRUD routes use the following URL and replace the "id" with the id number of the requested data.
